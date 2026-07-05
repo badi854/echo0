@@ -2,7 +2,7 @@
 
 > 一面面向自我的数字回音壁。文字即碑文，发送即投石。
 
-![Echo 0 预览](https://via.placeholder.com/800x400/0A0A0A/C5C5C5?text=Echo+0+%E7%8B%AC%E7%AB%8B%E5%AE%87%E5%AE%99)
+![Echo 0 预览](./assets/screenshot.png)
 
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 [![Made with Vanilla JS](https://img.shields.io/badge/Made%20with-Vanilla%20JS-f7df1e.svg)](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
